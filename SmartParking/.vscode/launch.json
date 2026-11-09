@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Smart Parking (menu)",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Smart Parking (full demo)",
+            "request": "launch",
+            "mainClass": "Main",
+            "args": "--demo",
+            "console": "integratedTerminal"
+        }
+    ]
+}
